@@ -1,2 +1,2 @@
-# 75-Days-DSA
-My solutions for 75-day DSA challenge
+# 25-Days-DSA
+My solutions for 25-day DSA challenge
